@@ -1,0 +1,27 @@
+{
+    "content":[{ 
+        "id": "ID", "satffCode":"员工编号","EmployeeName":"员工姓名",
+        "clinchDeal":"成交人数","consulting":"咨询人数","doorNum":"上门人数","payVisit":"回访人数",
+        "timeUnit":["2019","2020","2021"],
+        "series": [
+            {
+                "name": "成交人数",
+                "data": [122, 145, 21]
+            },
+            {
+                "name": "咨询人数",
+        
+                "data": [120, 132, 101]
+            },
+            {
+                "name": "上门人数",
+
+                "data": [120, 112, 101]
+            },
+            {
+                "name": "回访人数",
+                "data": [ 90, 230, 210]
+            }
+        ]
+        }]
+}
